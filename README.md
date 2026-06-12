@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/magnetic-midnight-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Magnetic Midnight Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/magnetic-midnight-romance/) |
+| **Get License** | [Commercial Licensing for Magnetic Midnight Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/magnetic-midnight-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> When the moon pulls the tide, you pull my soul
+> I lose my breath when you take control
+> A quiet spark in the fading light
+> I want to lose myself in your eyes tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
